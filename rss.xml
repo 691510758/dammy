@@ -6,8 +6,26 @@
     <atom:link href="https://dammy.vercel.app/rss.xml" rel="self" type="application/rss+xml"/>
     <description>个人记录</description>
     <generator>Solo, v4.3.1, https://b3log.org/solo</generator>
-    <lastBuildDate>Sun, 25 Apr 2021 05:12:17 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 05:36:20 +0800</lastBuildDate>
     <language>zh-cn</language>
+    <item>
+      <title>彩色</title>
+      <link>https://dammy.vercel.app/articles/2021/04/25/1619299793894.html</link>
+      <description/>
+      <author>dammy</author>
+      <guid>https://dammy.vercel.app/articles/2021/04/25/1619299793894.html</guid>
+      <category>待分类</category>
+      <pubDate>Sun, 25 Apr 2021 05:29:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>更新测试</title>
+      <link>https://dammy.vercel.app/articles/2021/04/25/1619299210801.html</link>
+      <description/>
+      <author>dammy</author>
+      <guid>https://dammy.vercel.app/articles/2021/04/25/1619299210801.html</guid>
+      <category>待分类</category>
+      <pubDate>Sun, 25 Apr 2021 05:20:10 +0800</pubDate>
+    </item>
     <item>
       <title>世界，你好！</title>
       <link>https://dammy.vercel.app/hello-solo</link>
